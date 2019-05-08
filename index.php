@@ -1,6 +1,6 @@
-<?php $ptitle='Home'; include'_head.php'; ?>
-<?php include'_header.php'; ?>
-<?php include'_nav.php'; ?>
+<?php $ptitle='Home'; include'modules/_head.php'; ?>
+<?php include'modules/_header.php'; ?>
+<?php include'modules/_nav.php'; ?>
 
     
         <div class="index">
@@ -60,4 +60,4 @@
           </ul>
         </div>
     </section>
- <?php include'_footer.php'; ?>
+ <?php include'modules/_footer.php'; ?>
